@@ -11,7 +11,7 @@ body {
 .container {
     text-align: center;
 }
-a {
+.btn {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 20px;
@@ -20,6 +20,6 @@ a {
     text-decoration: none;
     border-radius: 4px;
 }
-a:hover {
+.btn:hover {
     background: #1565c0;
 }
