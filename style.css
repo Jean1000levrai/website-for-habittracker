@@ -23,3 +23,13 @@ body {
 .btn:hover {
     background: #1565c0;
 }
+
+p {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 60px;
+  font-size: 0.9em;
+  color: #666;
+}
